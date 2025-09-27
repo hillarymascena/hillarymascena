@@ -1,7 +1,7 @@
 # Hi, I'm Hillary! 👋🏼
 
-I am a researcher, artist, and programmer in career transition, combining arts and languages with a growing focus on software development and data science.  
-Currently learning **JavaScript** and **Python** to build innovative solutions while continuing my academic research in the arts.
+I am a programmer in career transition, researcher and artist, combining arts and languages with a growing focus on software development and data science.  
+Currently learning **JavaScript** and **Python** to build innovative solutions.
 
 ## 💡 Skills & Tools
 - 🎨 Adobe Creative Suite: Illustrator, Photoshop, Lightroom, InDesign, Premiere Pro, After Effects  
@@ -13,7 +13,7 @@ Currently learning **JavaScript** and **Python** to build innovative solutions w
 - 🧠 Creativity, critical thinking & problem-solving  
 
 ## 🚀 I’m looking for
-Opportunities to apply programming and data science skills, collaborate with innovative teams, and continue developing my research and artistic work.  
+Opportunities to apply programming and data science skills, collaborate with innovative teams.  
 
 ---
 
